@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+>
+  <skos:Collection rdf:about="http://localhost:8000/67a9b037-b8b2-4476-b08d-617b5408d368"/>
+</rdf:RDF>

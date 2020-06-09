@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <skos:Concept rdf:about="http://localhost:8000/00000000-0000-0000-0000-000000000004">
+    <skos:inScheme>
+      <skos:ConceptScheme rdf:about="http://localhost:8000/00000000-0000-0000-0000-000000000001">
+        <skos:hasTopConcept rdf:resource="http://localhost:8000/00000000-0000-0000-0000-000000000004"/>
+      </skos:ConceptScheme>
+    </skos:inScheme>
+  </skos:Concept>
+</rdf:RDF>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+>
+  <skos:ConceptScheme rdf:about="http://www.archesproject.org/00000000-0000-0000-0000-000000000001">
+    <dcterms:title xml:lang="en-US">{"id": "6dc50628-a027-11e9-9600-d3c9f787866b", "value": "Arches"}</dcterms:title>
+    <skos:hasTopConcept>
+      <skos:Concept rdf:about="http://www.archesproject.org/00000000-0000-0000-0000-000000000004">
+        <skos:inScheme rdf:resource="http://www.archesproject.org/00000000-0000-0000-0000-000000000001"/>
+        <skos:prefLabel xml:lang="en-US">{"id": "6dc576c6-a027-11e9-9603-fb4adc2361c7", "value": "Resource To Resource Relationship Types"}</skos:prefLabel>
+      </skos:Concept>
+    </skos:hasTopConcept>
+  </skos:ConceptScheme>
+</rdf:RDF>
