@@ -1,4 +1,3 @@
-
 import uuid
 from django.core.exceptions import ValidationError
 from arches.app.functions.base import BaseFunction
